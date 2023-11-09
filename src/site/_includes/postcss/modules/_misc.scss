@@ -1,0 +1,15 @@
+::selection {
+  background: rgba($secondary-color, 0.8);
+  color: $white;
+  text-shadow: none;
+}
+::-moz-selection {
+  background: rgba($secondary-color, 0.8);
+  color: $white;
+  text-shadow: none;
+}
+::-webkit-selection {
+  background: rgba($secondary-color, 0.8);
+  color: $white;
+  text-shadow: none;
+}

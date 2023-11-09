@@ -1,0 +1,156 @@
+.competition {
+  /* border: 2px solid red; */
+  padding: 0 15% 175px;
+  margin: 0 auto;
+
+  @media screen and (max-width: 900px) {
+    padding: 0 5% 175px;
+  }
+
+  &-text {
+    a {
+      color: $secondary-color;
+      text-decoration: none;
+    }
+
+    h2 {
+      max-width: 700px;
+    }
+  }
+
+  &-projects {
+    /* border: 2px solid red; */
+
+    &__runnerup {
+      margin-top: 75px;
+
+      @media screen and (max-width: 768px) {
+        margin-top: 45px;
+      }
+
+      h3 {
+        font-size: $font-size-m;
+        margin: 35px 0 0 0;
+      }
+
+      &--title {
+        display: block;
+        font-weight: $font-weight-medium;
+        color: $black;
+        padding-right: 10%;
+      }
+      &--subtitle {
+        font-size: $font-size-xs;
+        font-style: italic;
+        padding-right: 10%;
+      }
+
+      ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        display: grid;
+        grid-column-gap: 15px;
+        grid-row-gap: 15px;
+        grid-template-columns: 1fr 1fr;
+
+        @media screen and (max-width: 768px) {
+          grid-template-columns: 1fr;
+        }
+
+        li {
+          img {
+            display: block;
+            margin-bottom: 3px;
+            margin-top: 25px;
+          }
+          a {
+            color: $black;
+            text-decoration: none;
+          }
+        }
+      }
+    }
+
+    &__project {
+      /* border: 2px solid red; */
+      display: flex;
+      position: relative;
+
+      @media screen and (max-width: 900px) {
+        flex-direction: column-reverse;
+      }
+
+      &:last-of-type {
+        margin-bottom: 0;
+      }
+
+      &-category {
+        /* border: 2px solid red; */
+        margin: 150px 0 50px 0;
+        display:inline-block;
+        font-size: $font-size-s;
+        text-align: center;
+
+        &--shape {
+          /* border: 2px solid green; */
+          display: block;
+          height: 60px;
+          margin-bottom: 10px;
+        }
+      }
+      &-icon {
+        /* border: 2px solid red; */
+      }
+      &-header,
+      &-description {
+        margin: 0 40px 0 0;
+        padding: 0 0 0 0;
+      }
+      &-header {
+        /* border: 2px solid red; */
+        line-height: 1.5em;
+
+        &--title {
+          /* border: 2px solid red; */
+          color: $black;
+          display: block;
+          font-size: $font-size-l;
+          font-weight: $font-weight-bold;
+          margin-bottom: 20px;
+          text-decoration: none;
+        }
+        &--author {
+          /* border: 2px solid red; */
+          display: block;
+          font-size: $font-size-s;
+          font-weight: $font-weight-medium;
+          margin-right: 20%;
+        }
+        &--institution {
+          /* border: 2px solid red; */
+          display: block;
+          font-size: $font-size-xs;
+          font-weight: $font-weight-medium;
+          font-style: italic;
+          margin-right: 20%;
+        }
+      }
+      &-description {
+        /* border: 2px solid red; */
+        margin-top: 30px;
+      }
+      &-image {
+        /* border: 2px solid red; */
+        display: block;
+        width: 28vw;
+
+        @media screen and (max-width: 900px) {
+          margin-bottom: 25px;
+          width: 100%;
+        }
+      }
+    }
+  }
+}

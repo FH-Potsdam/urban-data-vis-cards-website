@@ -1,0 +1,54 @@
+/*
+// CONFIG MODULES
+*/
+
+@import 'modules/_normalize.scss';
+@import 'modules/_typography.scss';
+@import 'modules/_vars.scss';
+@import 'modules/_clearfix.scss';
+@import 'modules/_defaults.scss';
+
+/*
+// PARTIALS
+*/
+
+@import 'partials/_header.scss';
+@import 'partials/_nav.scss';
+@import 'partials/_main.scss';
+@import 'partials/_section.scss';
+@import 'partials/_hero.scss';
+@import 'partials/_footer.scss';
+
+/*
+// OBJECTS & MODULES
+*/
+
+@import 'modules/_buttons.scss';
+@import 'modules/_inputs.scss';
+@import 'modules/_lists.scss';
+@import 'modules/_misc.scss';
+@import 'modules/_app.scss';
+@import 'modules/_project-tile.scss';
+@import 'modules/_collection.scss';
+@import 'modules/_project.scss';
+@import 'modules/_program-committee.scss';
+@import 'modules/_upcoming-events.scss';
+
+/* Enhancement modules */
+@import 'modules/_breakpoints.scss';
+@import 'modules/_print.scss';
+
+/*
+// Pages
+*/
+
+@import 'pages/_home.scss';
+@import 'pages/_competition.scss';
+@import 'pages/_workshop.scss';
+@import 'pages/_about.scss';
+
+/*
+// VENDOR
+*/
+
+@import 'vendor/_external.scss';

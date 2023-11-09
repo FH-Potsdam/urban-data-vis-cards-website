@@ -1,0 +1,145 @@
+.hero {
+  background-color: $primary-color;
+  color: $white;
+  height: 75vh;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  &__title {
+    color: rgba($white, 1);
+    font-size: 95px;
+    font-weight: $font-weight-extrabold;
+    left: 50%;
+    letter-spacing: 0.07em;
+    line-height: 1.3em;
+    pointer-events: none;
+    position: absolute;
+    text-transform: uppercase;
+    text-align: center;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    user-select: none;
+    z-index: 99;
+
+    @media screen and (max-width: 900px) {
+      line-height: 1.5em;
+      font-size: 40px;
+    }
+  }
+
+  &__map {
+    height: 70%;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+
+    &-layer {
+      height: 100%;
+      opacity: 1;
+      overflow: hidden;
+      position: absolute;
+      pointer-events: none;
+      transition: opacity 0.5s, transform 1.25s ease-out;
+      width: 100%;
+
+      &--streets {
+        transform: perspective(750px) rotate3D(-1, 0, 1, 65deg);
+      }
+      &--buildings {
+        transform: perspective(750px) rotate3D(1, 0, -1, 65deg);
+      }
+
+      img {
+        display: block;
+        height: 100%;
+        left: 50%;
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -50%) scale(0.9);
+        width: auto;
+      }
+    }
+  }
+
+  &__shuffle {
+    bottom: 15px;
+    font-size: $font-size-xs;
+    font-weight: $font-weight-bold;
+    position: absolute;
+    left: 50%;
+    text-align: center;
+    transform: translateX(-50%);
+    transition: opacity 0.5s;
+
+    @media screen and (max-width: 900px) {
+      font-size: $font-size-xxs;
+    }
+
+    #hero__map-location--coord {
+      font-weight: $font-weight-medium;
+    }
+
+    &-button {
+      cursor: pointer;
+      margin-bottom: 5px;
+      opacity: 1;
+    }
+    &-text {
+      cursor: default;
+      line-height: 1.4rem;
+      #hero__map-location--city {
+        opacity: 1;
+        transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+        transform: translateX(0);
+      }
+      #hero__map-location--coord {
+        opacity: 1;
+        transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+        transform: translateX(0);
+        transition-delay: 0.05s;
+
+        @media screen and (max-width: 900px) {
+          display: none;
+        }
+      }
+
+      @media screen and (max-width: 900px) {
+        line-height: 1.6em;
+      }
+    }
+  }
+
+  &.loading {
+    .hero {
+      &__map {
+        &-layer {
+          opacity: 0.1;
+          &--streets,
+          &--buildings {
+            transform: perspective(750px) rotate3D(0, 0, 0, 65deg) !important;
+          }
+        }
+      }
+      &__shuffle {
+        cursor: progress;
+        opacity: 0.75;
+        &-button {
+          cursor: progress;
+        }
+        &-text {
+          #hero__map-location--coord {
+            opacity: 0;
+            transform: translateX(25%);
+          }
+          #hero__map-location--city {
+            opacity: 0;
+            transform: translateX(-25%);
+          }
+        }
+      }
+    }
+  }
+}

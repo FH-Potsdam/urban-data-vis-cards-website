@@ -1,0 +1,8 @@
+{% include 'parts/head.njk' %}
+{% include 'parts/header.njk' %}
+<main class="main" role="main">
+    <section class="section">
+      {{ content | safe }}
+    </section>
+</main>
+{% include 'parts/footer.njk' %}

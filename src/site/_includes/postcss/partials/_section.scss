@@ -1,0 +1,26 @@
+.section {
+  padding: 0 5% 175px;
+  margin: 0 auto;
+  overflow: visible;
+
+  &:first-of-type {
+    margin-top: 125px;
+
+    @media screen and (max-width: 900px) {
+      margin-top: 60px;
+    }
+  }
+
+  @media screen and (max-width: 900px) {
+    padding: 0 5% 60px;
+  }
+}
+
+.static-section {
+  padding: 0 15% 175px;
+  margin: 0 auto;
+
+  @media screen and (max-width: 900px) {
+    padding: 0 5% 175px;
+  }
+}

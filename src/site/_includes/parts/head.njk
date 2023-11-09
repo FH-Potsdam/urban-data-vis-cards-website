@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Visualizing Cities{% if title %} | {{ title }}{% endif %}</title>
+
+  <link rel="icon" type="image/png" href="/assets/img/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/assets/img/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link href="/css/base.css" rel="stylesheet">
+
+  <!-- FACEBOOK -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Visualizing Cities | {% if title %}{{ title }}{% else %}CityVis.io{% endif %}">
+  <meta property="og:image" content="https://www.cityvis.io/assets/img/socialmedia/{% if image %}{{ image }}{% else %}default@2x.png{% endif %}">
+  <meta property="og:description" content="{% if description %}{{ description }}{% else %}Learning from the past, understanding the present, shaping our future{% endif %}">
+  <meta property="og:site_name" content="Visualizing Cities">
+
+  <!-- TWITTER -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@idpotsdam">
+  <meta name="twitter:creator" content="@idpotsdam">
+  <meta name="twitter:title" content="Visualizing Cities | {% if title %}{{ title }}{% else %}CityVis.io{% endif %}">
+  <meta name="twitter:description" content="{% if description %}{{ description }}{% else %}Learning from the past, understanding the present, shaping our future{% endif %}">
+  <meta name="twitter:image" content="https://www.cityvis.io/assets/img/socialmedia/{% if image %}{{ image }}{% else %}default@2x.png{% endif %}">
+</head>
+
+<body>

@@ -1,0 +1,148 @@
+.workshop {
+  &-section {
+    padding: 0 15% 100px;
+    margin: 0 auto;
+
+    @media screen and (max-width: 900px) {
+      padding: 0 5% 100px;
+    }
+    a {
+      color: $secondary-color;
+      text-decoration: none;
+    }
+    &__focus {
+      &-list {
+        list-style: none;
+        margin: 50px 0;
+        padding: 0;
+
+        &-item {
+          margin: 20px 0;
+          padding-right: 35%;
+
+          @media screen and (max-width: 900px) {
+            padding-right: 5%;
+          }
+
+          &--headline {
+            display: block;
+            font-weight: $font-weight-medium;
+            padding-left: 37px;
+            position: relative;
+
+            &::before {
+              background-color: $secondary-color;
+              content: '';
+              height: 1px;
+              left: 0;
+              position: absolute;
+              top: 50%;
+              width: 25px;
+            }
+          }
+          &--subtext {
+            display: inline-block;
+            font-size: $font-size-s;
+            padding-left: 50px;
+          }
+        }
+      }
+    }
+
+    &__timeline {
+      &-list {
+        line-height: 3em;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+
+        &--item {
+          @media screen and (max-width: 767px) {
+            border-bottom: 1px solid $secondary-color;
+          }
+          &:first-of-type,
+          &:last-of-type {
+            .workshop-section__timeline-list--date {
+              @media screen and (min-width: 768px) {
+                border: none;
+
+                &::before {
+                  background-color: $secondary-color;
+                  content: '';
+                  height: calc(50% + 1px);
+                  position: absolute;
+                  right: 0;
+                  width: 1px;
+                }
+              }
+            }
+          }
+          &:first-of-type {
+            .workshop-section__timeline-list--date {
+              @media screen and (min-width: 768px) {
+                &::before {
+                  top: 50%;
+                  transform: translate(0, -1px);
+                }
+              }
+            }
+          }
+          &:last-of-type {
+            .workshop-section__timeline-list--date {
+              @media screen and (min-width: 768px) {
+                &::before {
+                  top: 0;
+                  transform: translate(0, 0);
+                }
+              }
+            }
+          }
+        }
+        &--date {
+          display:block;
+          @media screen and (min-width: 768px) {
+            border-right: 1px solid $secondary-color;
+            display: inline-block;
+            margin-right: 20px;
+            padding-right: 30px;
+            position: relative;
+            text-align: right;
+            width: 100px;
+
+            &::after {
+              background-color: $secondary-color;
+              content: '';
+              height: 1px;
+              position: absolute;
+              right: 0;
+              top: 50%;
+              transform: translate(0, -50%);
+              width: 15px;
+            }
+          }
+        }
+        &--event {
+          font-weight: $font-weight-medium;
+        }
+      }
+    }
+  }
+}
+
+.ws-thumbnail-list{
+    margin:50px 0 0 0;
+    list-style: none;
+    padding:0;
+    text-align: center;
+    li{
+      list-style:none;
+      padding:0;
+      margin:10px;
+      display:inline-block;
+    }
+  }
+
+  hr.clear{
+    visibility: hidden;
+    clear:both;
+  }

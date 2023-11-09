@@ -1,0 +1,44 @@
+{
+  "name": "urban-data-vis-cards-website",
+  "title": "Website for the urban data vis card deck",
+  "version": "0.0.9",
+  "description": "cards.cityvis.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "cross-env ELEVENTY_ENV=dev eleventy --serve",
+    "build": "cross-env ELEVENTY_ENV=prod eleventy",
+    "seed": "cross-env ELEVENTY_ENV=seed eleventy",
+    "serve": "http-server ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fh-potsdam/urban-data-vis-cards-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fh-potsdam/urban-data-vis-cards-website/issues"
+  },
+  "homepage": "https://github.com/fh-potsdam/urban-data-vis-cards-website#readme",
+  "keywords": [],
+  "author": "sebastian-meier",
+  "license": "MIT",
+  "engines": {
+    "npm": ">=9.6.7",
+    "node": ">=18.17.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-navigation": "^0.3.5",
+    "cross-env": "^7.0.3",
+    "cssnano": "^6.0.1",
+    "http-server": "^14.1.1",
+    "postcss": "^8.4.31",
+    "postcss-color-mix": "^1.1.0",
+    "postcss-hexrgba": "^2.1.0",
+    "postcss-import": "^15.1.0",
+    "postcss-mixins": "^9.0.4",
+    "postcss-normalize": "^10.0.1",
+    "precss": "^4.0.0",
+    "uglify-js": "^3.17.4"
+  }
+}

@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+html {
+  background: $white;
+}
+body {
+  color: $black;
+  font-family: 'Montserrat', sans-serif;
+}
+body,
+html {
+  font-size: $font-size-m;
+  font-weight: $font-weight-regular;
+  line-height: $default-line-height;
+  min-height: 100vh;
+
+  @media screen and (max-width: 900px) {
+    font-size: $font-size-s;
+  }
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-size: $font-size-xl;
+  font-weight: $font-weight-medium;
+  line-height: $default-line-height;
+  margin: 0 0 0.5em 0;
+  padding: 0;
+
+  @media screen and (max-width: 900px) {
+    font-size: $font-size-l;
+    line-height: 1.4em;
+  }
+}
+
+p {
+  margin: 0 0 1.5em 0;
+}
+
+strong {
+  font-weight: $font-weight-bold;
+}

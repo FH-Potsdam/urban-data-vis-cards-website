@@ -1,0 +1,105 @@
+.project-tiles {
+  margin: 40px auto;
+  transition: 0.5s opacity;
+  width: 100%;
+  display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content:center;
+  align-items: stretch;
+
+  a {
+    color: $black;
+    text-decoration: none;
+  }
+
+  &__tile {
+    background: rgba($primary-color, 0.05);
+    border: 1px solid rgba($primary-color, 0.05);
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    line-height: 1.8em;
+    transition: box-shadow 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    margin: 20px;
+    overflow: hidden;
+    position: relative;
+    width: 90%;
+    max-width: 300px;
+
+    &:hover {
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    }
+
+    &-title {
+      font-size: $font-size-l;
+      font-weight: $font-weight-bold;
+      padding: 18px 15px 0;
+
+      @media screen and (max-width: 900px) {
+        font-size: $font-size-m;
+      }
+
+      &--organization {
+        padding-right: 20%;
+        margin: 8px 0 12px;
+      }
+
+      &--organization,
+      &--year {
+        display: block;
+        font-size: 15px;
+        line-height: 1.6em;
+        font-weight: $font-weight-regular;
+      }
+    }
+    &-image {
+      height: 175px;
+      overflow: hidden;
+      position: relative;
+      user-select: none;
+
+      img {
+        display: block;
+        left: 50%;
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        width: 110%;
+      }
+    }
+    &-tags {
+      color: $primary-color;
+      line-height: 1.3em;
+      margin-top: 15px;
+      padding: 0 15px 11px;
+      text-transform: capitalize;
+      user-select: none;
+
+      &__tag {
+        border: 1px solid $primary-color;
+        border-radius: 3px;
+        display: inline-block;
+        font-size: $font-size-xs;
+        line-height: 1em;
+        margin: 0 5px 4px 0;
+        padding: 3px 4px;
+
+        &.active {
+          background-color: $primary-color;
+          color: $white;
+        }
+      }
+    }
+  }
+
+  &__gutter-sizer {
+    width: 5%;
+
+    @media screen and (max-width: 900px) {
+      width: 5%;
+    }
+    @media screen and (min-width: 768px) {
+      width: 5%;
+    }
+  }
+}
