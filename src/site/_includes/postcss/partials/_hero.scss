@@ -6,6 +6,16 @@
   position: relative;
   width: 100%;
 
+  &.cardHero {
+    background-image: url('/assets/img/header.jpg');
+    background-position: center;
+    background-size: cover;
+
+    h1 {
+      color: $primary-color;
+    }
+  }
+
   &__title {
     color: rgba($white, 1);
     font-size: 95px;
