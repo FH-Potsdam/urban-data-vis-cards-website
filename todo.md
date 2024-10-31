@@ -7,4 +7,6 @@ Help us improve the cards
 
 On the website you will find a link to a feedback form. Your feedback helps us evaluate and improve the cards.
 
+MENTION THE EVALUATION SHEET (see download section)?
+
 Add more images. Maybe a slideshow, or a gallery? Something rudimentary like here: https://www.cityvis.io/workshops/2018/
