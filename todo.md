@@ -10,3 +10,5 @@ On the website you will find a link to a feedback form. Your feedback helps us e
 MENTION THE EVALUATION SHEET (see download section)?
 
 Add more images. Maybe a slideshow, or a gallery? Something rudimentary like here: https://www.cityvis.io/workshops/2018/
+
+fix header meta data
