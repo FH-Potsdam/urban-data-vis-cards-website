@@ -9,17 +9,17 @@ eleventyNavigation:
 <section class="section home-section" id="introduction" style="padding-top:100px;margin-top:0px;">
 	<div class="home-section__text">
 		<h2>A card deck for collaborative creation, critique calibration and curation of urban data visualisations</h2>
-		<p>LOREM IPSUM</p>
+		<p>The Urban Data Visualization (UDV) card deck – a tool created to spark discussions and guide the design of urban data visualizations. The UDV cards were crafted to make it easier to connect theory with hands-on practice, especially in collaborative workshop settings. Each card distills essential insights from urban visualization design, offering a structured yet flexible way to explore different aspects of your projects. Whether you're new to urban data or already working in the field, the UDV card deck is here to support your creative process and help you make well-informed design decisions.</p>
   </div>
 	<div class="home-section__shapes">
-		CARD DECK IMAGE
+		<img src="/assets/img/udvcards-in-hands.jpg" alt="UDV cards spread in hand." />
 	</div>
 </section>
 
 <section style="padding-top:50px; padding-bottom:0;" class="section workshop-section" id="instructions">
   <div class="container">
     <h2>Instructions</h2>
-    <p>SHORT INTRO TEXT FOR THE THREE ACTIVITIES. THE DETAILED INSTRUCTIONS FOR EACH ARE LOCATED ON A SEPERATE PAGE</p>
+    <p>Engage with the UDV card deck through different activities that guide you from analyzing and designing urban visualizations to refining concepts and organizing inspirations. Detailed instructions for each are available below.</p>
   </div>
 	<ul id="instruction-list">
     <li>
@@ -70,23 +70,23 @@ eleventyNavigation:
 <ul class="workshop-section__talk-list">
   <li>
     <strong>Card deck</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/cards-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/cards.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/cards-bleeds.pdf">PDF with bleeds</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/cards-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/cards.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/cards-bleeds.pdf">PDF with bleeds</a></p>
   </li>
   <li>
     <strong>Instructions</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/instructions-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/instructions.pdf">PDF</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/instructions-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/instructions.pdf">PDF</a></p>
   </li>
   <li>
     <strong>Packaging</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/packaging-package.zip">Illustrator Package</a>, <a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/packaging.pdf">PDF</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/packaging-package.zip">Illustrator Package</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/packaging.pdf">PDF</a></p>
   </li>
   <li>
     <strong>Introduction Slides</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/2177245fa11aee75c1eb4648d69c75114d462057/downloads/slides.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/2177245fa11aee75c1eb4648d69c75114d462057/downloads/slides.zip">PNGs (zipped)</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/slides.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/slides.zip">PNGs (zipped)</a></p>
   </li>
   <li>
     <strong>Evaluation Form</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/survey.pdf">PDF</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/survey.pdf">PDF</a></p>
   </li>
 </ul>
 </section>
