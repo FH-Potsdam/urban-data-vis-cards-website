@@ -15,7 +15,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>Purpose</h2>
-		<p>If you are starting into a new urban visualisation project, this activity can help you collaboratively develop data-driven concepts for potential visualisation solutions, based on an urban challenge.</p>
+		<p>If you are starting into a new urban visualisation project, this activity can help you collaboratively develop data-driven concepts for potential visualisation solutions, based on an urban challenge. Bring together different stakeholders and explore diverse perspectives on your project.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/create-intro.jpg" alt="Introduction of workshop material" />
@@ -48,7 +48,7 @@ Instructions for
 <section class="section workshop-section" style="padding-bottom:0;">
 <h4>Preparation</h4>
 
-<p>Define the challenge and its requirements (e.g. user groups and their expectations) and contextual infor-mation (e.g. where and how will it be deployed). If data exists, provide details (e.g. dimensions, origin). </p>
+<p>Define the urban challenge and its requirements (e.g. user groups and their expectations) and contextual information (e.g. where and how will it be deployed). If data exists, provide details (e.g. dimensions, origin). Make sure to provide all information with enough details and context for the level of expertise of your various stakeholders, to get everybody on board.</p>
 
 <h4>Activity schedule</h4>
 </section>
@@ -56,7 +56,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>1. Introduction</h2>
-		<p>Introduction of workshop & participants</p>
+		<p>As the focus of the activities is to collaboratively solve the tasks, start by introducing the activity participants to one another. Follow up by introducing the workshop concept. We have some <a href="">slides prepared</a> you can use.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/1-intro.jpg" alt="Introduction of workshop material" />
@@ -66,7 +66,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>2. Challenge</h2>
-		<p>Presentation of challenge</p>
+		<p>Next introduce the participants to the urban challenge. Highlight requirements, context, targeted audiences, data, etc. (see Preparations).</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/2-challenge.jpg" alt="Introduction of workshop material" />
@@ -86,7 +86,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>4. Dimension selection</h2>
-		<p>Group selects (max.) 3 dimensions they think are most important to the  presented challenge.</p>
+		<p>Group selects (max.) 3 dimensions they think are most important to the  presented challenge. <i>This step can take up quite some time. If time is limited preselect the dimensions and skip this step.</i></p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/4-dimension-selection.jpg" alt="Introduction of workshop material" />
@@ -96,7 +96,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>5. Scale setup</h2>
-		<p>The groups set up the dimension scales for the selected dimensions.</p>
+		<p>The groups set up the dimension scales for the selected dimensions. In this activity setup the scale cards without crosses. Put the extremes on each side. If you have enough space put the description card of the dimension next to it as backup.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/5-scales.jpg" alt="Introduction of workshop material" />
@@ -106,7 +106,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>6. Define goals</h2>
-		<p>Jointly position the green markers (X) on the dimension axis, reflecting the re-quirements for the presented challenge.</p>
+		<p>Based on the requirements for the presented challenge, the group should discuss where the proposed visualisation should be positioned on each dimension. Use the green markers (X) on the dimension axis to mark the goal.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/6-goals.jpg" alt="Introduction of workshop material" />
@@ -116,7 +116,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>7. Generating ideas</h2>
-		<p>In groups of 2 (max 3) the participants sketch out ideas for potential visualisations.</p>
+		<p>In the next step, the goals defined by the green markers are used as guidance to come up with ideas. In groups of 2 (max 3) the participants sketch out ideas for potential visualisations.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/7-ideate.jpg" alt="Introduction of workshop material" />
@@ -126,7 +126,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>8. Reflection cards</h2>
-		<p>To inspire the process, each group goes through the reflection cards, that are relevant for the selected dimensions.</p>
+		<p>To inspire the ideation process, each group goes through the reflection cards, that are relevant for the selected dimensions. On the dimension overview cards the colored circles highlight which consideration cards are relevant for each dimension.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/8-considerations.jpg" alt="Introduction of workshop material" />
@@ -136,7 +136,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>8. Presentation of results</h2>
-		<p>To inspire the process, each group goes through the reflection cards, that are relevant for the selected dimensions.</p>
+		<p>To finish up, each group presents the results to each other and discuss the outcomes of the workshop. <i>Taking either video recordings or photos and audio recordings helps documenting the thoughts that go into each concept.</i></p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/9-results.jpg" alt="Introduction of workshop material" />
