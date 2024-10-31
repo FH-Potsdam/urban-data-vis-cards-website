@@ -70,23 +70,23 @@ eleventyNavigation:
 <ul class="workshop-section__talk-list">
   <li>
     <strong>Card deck</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/cards-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/cards.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/cards-bleeds.pdf">PDF with bleeds</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/cards-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/cards.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/cards-bleeds.pdf">PDF with bleeds</a></p>
   </li>
   <li>
     <strong>Instructions</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/instructions-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/instructions.pdf">PDF</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/instructions-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/instructions.pdf">PDF</a></p>
   </li>
   <li>
     <strong>Packaging</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/packaging-package.zip">Illustrator Package</a>, <a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/packaging.pdf">PDF</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/packaging-package.zip">Illustrator Package</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/packaging.pdf">PDF</a></p>
   </li>
   <li>
     <strong>Introduction Slides</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/2177245fa11aee75c1eb4648d69c75114d462057/downloads/slides.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/2177245fa11aee75c1eb4648d69c75114d462057/downloads/slides.zip">PNGs (zipped)</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/slides.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/slides.zip">PNGs (zipped)</a></p>
   </li>
   <li>
     <strong>Evaluation Form</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/survey.pdf">PDF</a></p>
+    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/survey.pdf">PDF</a></p>
   </li>
 </ul>
 </section>
