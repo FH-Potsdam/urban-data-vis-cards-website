@@ -135,7 +135,7 @@ Instructions for
 
 <section class="section instructions-section">
 	<div>
-		<h2>8. Presentation of results</h2>
+		<h2>9. Presentation of results</h2>
 		<p>To finish up, each group presents the results to each other and discuss the outcomes of the workshop. <i>Taking either video recordings or photos and audio recordings helps documenting the thoughts that go into each concept.</i></p>
   </div>
 	<div>

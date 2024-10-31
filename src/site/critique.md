@@ -5,40 +5,147 @@ eleventyNavigation:
  order: 0
 ---
 
-This is the instructions page for the Critique activity. An overview of the card deck and all activities can be found here.
+<section class="section workshop-section" style="padding-bottom:0;">
+Instructions for 
+<h4 style="margin-bottom:0.25em;"><strong>Critique Activity</strong></h4>
+<span class="project__tags__row--tag">Time estimation: 1 hour</span>
+<p style="padding-top:10px;">This is the instructions page for the <b>Critique</b> activity. An overview of the card deck and all other activities can be found <a href="/">here</a>.</p>
+</section>
 
-Advice for all activities
+<section class="section instructions-section">
+	<div>
+		<h2>Purpose</h2>
+		<p>If you are updating or revising an existing urban visualisation, the critique activity can help you with a guided group reflection to analyse the weaknesses and strengths of an existing urban data visualisation.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/create-intro.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
 
-If you are short on card-decks, we also have a digital version you can use in online collaboration apps.
+<section class="section instructions-advice workshop-section workshop-section__focus" style="padding-bottom:0;">
+<h4>Getting started</h4>
 
-To kick off each activity use our UDV introduction slides (see QR-code).
+<ul class="workshop-section__focus-list">
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">If you are short on card-decks, we also have a digital version you can use in online collaboration apps.</span>
+</li>
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">To kick things off use our UDV introduction slides (see <a href="/#downloads">downloads</a>).</span>
+</li>
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">You will need workshop materials (pencils, postIts, paper, etc).</span>
+</li>
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">We recommend groups of max. five people. If working with larger groups split the groups up (more card decks required).</span>
+</li>
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">The time given for each activity is a rough minimum. The activities can easily be extended by either giving more time for each step or combining activities, e.g. create + critique or critique + calibrate. You can also speed up the activities by preselecting the dimensions for the session.</span>
+</li>
+</ul>
 
-For all activities you will need workshop materials (pencils, postIts, paper, etc).
+</section>
 
-We recommend groups of max. five people. If working with larger groups split the groups up (more card decks required).
+<section class="section workshop-section" style="padding-bottom:0;">
+<h4>Preparation</h4>
 
-The time given for each activity is a rough minimum. The activities can easily be extended by either giving more time for each step or combining activities, e.g. create + critique or critique + calibrate. You can also speed up the activities by preselecting the dimensions for the session.
+<p>Per visualisation prepare at least two screenshots (overview & detail), a short description of the visualisation, the data behind it and it’s context, as well as a link to the live version (if available).</p>
 
-Purpose
+<h4>Activity schedule</h4>
+</section>
 
-A guided group reflection to analyse the weaknesses and strengths of urban data visualisations.
+<section class="section instructions-section">
+	<div>
+		<h2>1. Introduction</h2>
+		<p>As the focus of the activities is to collaboratively solve the tasks, start by introducing the activity participants to one another. Follow up by introducing the workshop concept. We have some <a href="/#downloads">slides prepared</a> you can use.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/1-intro.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
 
-Preparation
+<section class="section instructions-section">
+	<div>
+		<h2>2. Existing Visualisation</h2>
+		<p>Each group receives one visualisation and familiarises themselves with it. Highlight requirements, context, targeted audiences, data, etc. (see Preparations).</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/2-challenge.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
 
-Per visualisation prepare at least two screenshots (overview & detail), a short description of the visualisation, the data behind it and it’s context, as well as a link to the live version (if available).
+<section class="section instructions-section">
+	<div>
+		<h2>3. Dimensions overview</h2>
+		<p>Each participant picks (at least) one dimension card and summarises it to the group. For each dimension there is an overview card, highlighting connected considerations as colored circles and a description on the back. In addition two cards for the two extremes of the dimension.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/3-dimensions.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
 
-Activity
+<section class="section instructions-section">
+	<div>
+		<h2>4. Dimension selection</h2>
+		<p>Group selects (max.) 3 dimensions they think are most important to the  presented challenge. <i>This step can take up quite some time. If time is limited preselect the dimensions and skip this step.</i></p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/4-dimension-selection.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
 
-1. Intro of workshop & participants.
-2. Each group receives one vis and familiarises themselves with it.
-3. Each participant picks (at least) one dimension card and summarises it to the group.
-4. Group selects (max.) 3 dimensions they think are most important to the presented challenge.
-5. The groups set up the dimension scales for the selected dimensions.
-6. In regards to the selected dimensions, discuss the weaknesses and strengths of the visualisation.
-7. To inspire the process, each group goes through the reflection cards, that are relevant for the selected dimensions.
-8. Use the green markers (X) on the dimension axis to highlight to indicate the weaknesses and strengths.
-9. Presentation of results. 
+<section class="section instructions-section">
+	<div>
+		<h2>5. Scale setup</h2>
+		<p>The groups set up the dimension scales for the selected dimensions. In this activity setup the scale cards without crosses. Put the extremes on each side. If you have enough space put the description card of the dimension next to it as backup.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/5-scales.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
 
-Next Step
+<section class="section instructions-section">
+	<div>
+		<h2>6. Strength and Weaknesses</h2>
+		<p>In regards to the selected dimensions (previous step), discuss the weaknesses and strengths of the visualisation.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/strength-weakness.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
 
-If you want to improve the vis based on the identified characteristics, use the Calibrate activity. If you want to use this as a starting point to develop a new visualisation, use the Create activity.
+<section class="section instructions-section">
+	<div>
+		<h2>7. Reflection cards</h2>
+		<p>To inspire the ideation process, each group goes through the reflection cards, that are relevant for the selected dimensions. On the dimension overview cards the colored circles highlight which consideration cards are relevant for each dimension.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/8-considerations.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
+
+<section class="section instructions-section">
+	<div>
+		<h2>8. Mark findings</h2>
+		<p>Use the green markers (X) on the dimension axis to indicate the weaknesses and strengths.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/6-goals.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
+
+<section class="section instructions-section">
+	<div>
+		<h2>9. Presentation of results</h2>
+		<p>To finish up, each group presents the results to each other and discuss the outcomes of the workshop. <i>Taking either video recordings or photos and audio recordings helps documenting the thoughts that go into each concept.</i></p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/critique-results.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
+
+
+<section class="section workshop-section">
+<h4>Next Step</h4>
+
+<p>If you want to improve the vis based on the identified characteristics, use the <a href="/calibrate/">Calibrate</a> activity. If you want to use this as a starting point to develop a new visualisation, use the <a href="/critique/">Create</a> activity.</p>
+</section>
