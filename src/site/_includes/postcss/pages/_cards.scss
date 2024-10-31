@@ -44,7 +44,7 @@ ul#instruction-list {
 section.instructions-section {
     margin: 0 auto;
     margin-top: 0px;
-    padding: 0 15% 100px;
+    padding: 0 15% 50px;
     display:flex;
     display: flex;
     flex-direction: row;
@@ -66,7 +66,17 @@ section.instructions-section {
 }
 
 @media screen and (max-width: 600px) {
-    section.instructions-section>div{
-        width: 100%;
+    section.instructions-section{
+        padding: 0 0 50px;
+        >div{
+            width: 100%;
+        }
     }
 }
+
+.instructions-advice.workshop-section.workshop-section__focus .workshop-section__focus-list .workshop-section__focus-list-item {
+    padding-right:0;
+    .workshop-section__focus-list-item--headline{
+        font-weight: 400;
+    }
+} 

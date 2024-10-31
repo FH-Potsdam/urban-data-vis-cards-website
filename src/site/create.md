@@ -6,29 +6,51 @@ eleventyNavigation:
 ---
 
 <section class="section workshop-section" style="padding-bottom:0;">
-<p style="font-size:13px;">This is the instructions page for the <b>Create</b> activity. An overview of the card deck and all other activities can be found <a href="/">here</a>.</p>
-<h4><strong>Instructions for Create activity</strong></h4>
-<p><b>Time required: 2 hours.</b> The time may vary depending on level of expertise of participants, group size and complexity of the topic.</p>
-<h4>Purpose</h4>
-<p>Based on an urban challenge develop data-driven concepts for potential visualisation solutions.</p>
-<h4>Advice for all activities</h4>
-<p>
-If you are short on card-decks, we also have a digital version you can use in online collaboration apps.
+Instructions for 
+<h4 style="margin-bottom:0.25em;"><strong>Create Activity</strong></h4>
+<span class="project__tags__row--tag">Time estimation: 2 hours</span>
+<p style="padding-top:10px;">This is the instructions page for the <b>Create</b> activity. An overview of the card deck and all other activities can be found <a href="/">here</a>.</p>
+</section>
 
-To kick off each activity use our UDV introduction slides (see <a href="/#downloads">downloads</a>).
+<section class="section instructions-section">
+	<div>
+		<h2>Purpose</h2>
+		<p>If you are starting into a new urban visualisation project, this activity can help you collaboratively develop data-driven concepts for potential visualisation solutions, based on an urban challenge.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/create-intro.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
 
-For all activities you will need workshop materials (pencils, postIts, paper, etc).
+<section class="section instructions-advice workshop-section workshop-section__focus" style="padding-bottom:0;">
+<h4>Getting started</h4>
 
-We recommend groups of max. five people. If working with larger groups split the groups up (more card decks required).
+<ul class="workshop-section__focus-list">
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">If you are short on card-decks, we also have a digital version you can use in online collaboration apps.</span>
+</li>
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">To kick things off use our UDV introduction slides (see <a href="/#downloads">downloads</a>).</span>
+</li>
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">You will need workshop materials (pencils, postIts, paper, etc).</span>
+</li>
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">We recommend groups of max. five people. If working with larger groups split the groups up (more card decks required).</span>
+</li>
+<li class="workshop-section__focus-list-item">
+<span class="workshop-section__focus-list-item--headline">The time given for each activity is a rough minimum. The activities can easily be extended by either giving more time for each step or combining activities, e.g. create + critique or critique + calibrate. You can also speed up the activities by preselecting the dimensions for the session.</span>
+</li>
+</ul>
 
-The time given for each activity is a rough minimum. The activities can easily be extended by either giving more time for each step or combining activities, e.g. create + critique or critique + calibrate. You can also speed up the activities by preselecting the dimensions for the session.
-</p>
+</section>
 
+<section class="section workshop-section" style="padding-bottom:0;">
 <h4>Preparation</h4>
 
-<p>Define the challenge and its require-ments (e.g. user groups and their expectations) and contextual infor-mation (e.g. where and how will it be deployed). If data exists, provide details (e.g. dimensions, origin). </p>
+<p>Define the challenge and its requirements (e.g. user groups and their expectations) and contextual infor-mation (e.g. where and how will it be deployed). If data exists, provide details (e.g. dimensions, origin). </p>
 
-<h4>Activity</h4>
+<h4>Activity schedule</h4>
 </section>
 
 <section class="section instructions-section">
@@ -117,7 +139,7 @@ The time given for each activity is a rough minimum. The activities can easily b
 		<p>To inspire the process, each group goes through the reflection cards, that are relevant for the selected dimensions.</p>
   </div>
 	<div>
-		CARD DECK IMAGE
+		<img src="/assets/img/instructions/9-results.jpg" alt="Introduction of workshop material" />
 	</div>
 </section>
 
