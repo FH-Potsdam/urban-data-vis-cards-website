@@ -23,35 +23,43 @@ eleventyNavigation:
   </div>
 	<ul id="instruction-list">
     <li>
-      <img src="/assets/img/icon-create.svg" alt="Create" />
-      <h3>Create</h3>
-      <span>
-        Based on an urban challenge develop data-driven concepts for potential visualisation solutions.
-      </span>
+      <a href="/create/">
+        <img src="/assets/img/icon-create.svg" alt="Create" />
+        <h3>Create</h3>
+        <span>
+          Based on an urban challenge develop data-driven concepts for potential visualisation solutions.
+        </span>
+      </a>
       <a class="upcoming-link" style="color:white;" href="/create/">Read more &raquo;</a>
     </li>
     <li>
-      <img src="/assets/img/icon-critique.svg" alt="Critique" />
-      <h3>Critique</h3>
-      <span>
-        A guided group reflection to analyse the weaknesses and strengths of urban data visualisations.
-      </span>
+      <a href="/critique/">
+        <img src="/assets/img/icon-critique.svg" alt="Critique" />
+        <h3>Critique</h3>
+        <span>
+          A guided group reflection to analyse the weaknesses and strengths of urban data visualisations.
+        </span>
+      </a>
       <a class="upcoming-link" style="color:white;" href="/critique/">Read more &raquo;</a>
     </li>
     <li>
-      <img src="/assets/img/icon-calibrate.svg" alt="Calibrate" />
-      <h3>Calibrate</h3>
-      <span>
-        Collaboratively improve an existing urban data visualisations, based on a set of selected dimensions.
-      </span>
+      <a href="/calibrate/">
+        <img src="/assets/img/icon-calibrate.svg" alt="Calibrate" />
+        <h3>Calibrate</h3>
+        <span>
+          Collaboratively improve an existing urban data visualisations, based on a set of selected dimensions.
+        </span>
+      </a>
       <a class="upcoming-link" style="color:white;" href="/calibrate/">Read more &raquo;</a>
     </li>
     <li>
-      <img src="/assets/img/icon-curate.svg" alt="Curate" />
-      <h3>Curate</h3>
-      <span>
-        Starting from a collection of urban visualisations, organising and curating a selection (e.g. for an exhibition or book). 
-      </span>
+      <a href="/curate/">
+        <img src="/assets/img/icon-curate.svg" alt="Curate" />
+        <h3>Curate</h3>
+        <span>
+          Starting from a collection of urban visualisations, organising and curating a selection (e.g. for an exhibition or book). 
+        </span>
+      </a>
       <a class="upcoming-link" style="color:white;" href="/curate/">Read more &raquo;</a>
     </li>
   </ul>
