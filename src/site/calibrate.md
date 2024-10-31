@@ -105,41 +105,42 @@ Instructions for
 
 <section class="section instructions-section">
 	<div>
-		<h2>6. Strength and Weaknesses</h2>
-		<p>In regards to the selected dimensions (previous step), discuss the weaknesses and strengths of the visualisation.</p>
+		<h2>6. Analyse visualisation</h2>
+		<p>Flip the axis to highlight the current state of the visualisation.</p>
   </div>
 	<div>
-		<img src="/assets/img/instructions/strength-weakness.jpg" alt="Introduction of workshop material" />
+		<img src="/assets/img/instructions/scale-flip.jpg" alt="Introduction of workshop material" />
 	</div>
 </section>
 
 <section class="section instructions-section">
 	<div>
-		<h2>7. Reflection cards</h2>
-		<p>To inspire the ideation process, each group goes through the reflection cards, that are relevant for the selected dimensions. On the dimension overview cards the colored circles highlight which consideration cards are relevant for each dimension.</p>
+		<h2>7. Mark targets</h2>
+		<p>Place the marker to indicate how it should be improved.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/mark-targets.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
+
+<section class="section instructions-section">
+	<div>
+		<h2>8. Generating ideas</h2>
+		<p>Sketch ideas how to improve the vis.</p>
+  </div>
+	<div>
+		<img src="/assets/img/instructions/7-ideate.jpg" alt="Introduction of workshop material" />
+	</div>
+</section>
+
+
+<section class="section instructions-section">
+	<div>
+		<h2>9. Reflection cards</h2>
+		<p>To inspire the process, each group goes through the reflection cards, that are relevant for the selected dimensions. On the dimension overview cards the colored circles highlight which consideration cards are relevant for each dimension.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/8-considerations.jpg" alt="Introduction of workshop material" />
-	</div>
-</section>
-
-<section class="section instructions-section">
-	<div>
-		<h2>8. Mark findings</h2>
-		<p>Use the green markers (X) on the dimension axis to indicate the weaknesses and strengths.</p>
-  </div>
-	<div>
-		<img src="/assets/img/instructions/6-goals.jpg" alt="Introduction of workshop material" />
-	</div>
-</section>
-
-<section class="section instructions-section">
-	<div>
-		<h2>9. Presentation of results</h2>
-		<p>To finish up, each group presents the results to each other and discuss the outcomes of the workshop. <i>Taking either video recordings or photos and audio recordings helps documenting the thoughts that go into each concept.</i></p>
-  </div>
-	<div>
-		<img src="/assets/img/instructions/critique-results.jpg" alt="Introduction of workshop material" />
 	</div>
 </section>
 
@@ -149,7 +150,7 @@ Instructions for
 		<p>To finish up, each group presents the results to each other and discuss the outcomes of the workshop. <i>Taking either video recordings or photos and audio recordings helps documenting the thoughts that go into each concept.</i></p>
   </div>
 	<div>
-		<img src="/assets/img/instructions/critique-results.jpg" alt="Introduction of workshop material" />
+		<img src="/assets/img/instructions/9-results.jpg" alt="Introduction of workshop material" />
 	</div>
 </section>
 
@@ -159,11 +160,3 @@ Instructions for
 
 <p>This activity should have helped you get closer to a final concept. If you want to further improve, use another iteration of either <a href="/critique/">Critique</a> or <a href="/calibrate/">Calibrate</a> activities.</p>
 </section>
-
-6. Flip the axis to highlight the current state of the visualisation.
-
-7. Place the marker to indicate how it should be improved.
-
-8. Sketch ideas how to improve the vis.
-
-9. To inspire the process, each group goes through the reflection cards, that are relevant for the selected dimensions.
