@@ -9,7 +9,7 @@ eleventyNavigation:
 <section class="section home-section" id="introduction" style="padding-top:100px;margin-top:0px;">
 	<div class="home-section__text">
 		<h2>A card deck for collaborative creation, critique calibration and curation of urban data visualisations</h2>
-		<p>LOREM IPSUM</p>
+		<p>The Urban Data Visualization (UDV) card deck – a tool created to spark discussions and guide the design of urban data visualizations. The UDV cards were crafted to make it easier to connect theory with hands-on practice, especially in collaborative workshop settings. Each card distills essential insights from urban visualization design, offering a structured yet flexible way to explore different aspects of your projects. Whether you're new to urban data or already working in the field, the UDV card deck is here to support your creative process and help you make well-informed design decisions.</p>
   </div>
 	<div class="home-section__shapes">
 		CARD DECK IMAGE
@@ -19,7 +19,7 @@ eleventyNavigation:
 <section style="padding-top:50px; padding-bottom:0;" class="section workshop-section" id="instructions">
   <div class="container">
     <h2>Instructions</h2>
-    <p>SHORT INTRO TEXT FOR THE THREE ACTIVITIES. THE DETAILED INSTRUCTIONS FOR EACH ARE LOCATED ON A SEPERATE PAGE</p>
+    <p>Engage with the UDV card deck through different activities that guide you from analyzing and designing urban visualizations to refining concepts and organizing inspirations. Detailed instructions for each are available below.</p>
   </div>
 	<ul id="instruction-list">
     <li>
