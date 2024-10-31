@@ -1,0 +1,42 @@
+#instructions{
+    h2 {
+        display: block;
+        width:100%;
+    }
+}
+
+ul#instruction-list {
+    margin:0;
+    padding:0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    li {
+        h3 {
+            color: $primary-color;
+        }
+        width: 400px;
+        display: block;
+        text-align: center;
+        margin:0;
+        padding:0 0 75px 0;
+        img {
+            width:50px;
+            height: auto;
+        }
+        span{
+            display: block;
+            text-align: left;
+            color: #000;
+        }
+    }
+}
+
+@media screen and (max-width: 600px) {
+    ul#instruction-list li {
+        width: 400px;
+    }
+}

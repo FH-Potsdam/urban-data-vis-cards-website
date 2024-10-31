@@ -16,18 +16,49 @@ eleventyNavigation:
 	</div>
 </section>
 
-<section class="section home-section" id="instructions">
-	<div class="home-section__text">
-		<h2>Instructions</h2>
-		<p>LOREM IPSUM</p>
+<section style="padding-top:50px; padding-bottom:0;" class="section workshop-section" id="instructions">
+  <div class="container">
+    <h2>Instructions</h2>
+    <p>SHORT INTRO TEXT FOR THE THREE ACTIVITIES. THE DETAILED INSTRUCTIONS FOR EACH ARE LOCATED ON A SEPERATE PAGE</p>
   </div>
-	<div class="home-section__shapes">
-		CARD DECK IMAGE
-	</div>
+	<ul id="instruction-list">
+    <li>
+      <img src="/assets/img/icon-create.svg" alt="Create" />
+      <h3>Create</h3>
+      <span>
+        Based on an urban challenge develop data-driven concepts for potential visualisation solutions.
+      </span>
+      <a class="upcoming-link" style="color:white;" href="/create/">Read more &raquo;</a>
+    </li>
+    <li>
+      <img src="/assets/img/icon-critique.svg" alt="Critique" />
+      <h3>Critique</h3>
+      <span>
+        A guided group reflection to analyse the weaknesses and strengths of urban data visualisations.
+      </span>
+      <a class="upcoming-link" style="color:white;" href="/critique/">Read more &raquo;</a>
+    </li>
+    <li>
+      <img src="/assets/img/icon-calibrate.svg" alt="Calibrate" />
+      <h3>Calibrate</h3>
+      <span>
+        Collaboratively improve an existing urban data visualisations, based on a set of selected dimensions.
+      </span>
+      <a class="upcoming-link" style="color:white;" href="/calibrate/">Read more &raquo;</a>
+    </li>
+    <li>
+      <img src="/assets/img/icon-curate.svg" alt="Curate" />
+      <h3>Curate</h3>
+      <span>
+        Starting from a collection of urban visualisations, organising and curating a selection (e.g. for an exhibition or book). 
+      </span>
+      <a class="upcoming-link" style="color:white;" href="/curate/">Read more &raquo;</a>
+    </li>
+  </ul>
 </section>
 
-<section class="section workshop-section workshop-section__focus">
-<h4 style="padding-top:50px;" id="downloads">Downloads</h4>
+<section style="padding-top:50px; padding-bottom:0;" class="section workshop-section workshop-section__focus">
+<h4 id="downloads">Downloads</h4>
 <ul class="workshop-section__talk-list">
   <li>
     <strong>Card deck</strong>
@@ -49,10 +80,8 @@ eleventyNavigation:
 </section>
 
 
-
-
-<section class="section workshop-section workshop-section__timeline">
-<h4 style="padding-top:50px;" id="contact">Team</h4>
+<section style="padding-top:50px; padding-bottom:0;" class="section workshop-section workshop-section__timeline">
+<h4 id="contact">Team</h4>
 <ul class="committee-list">
 <li class="committee-list__item">
 <a href="https://mome.hu/en/people/damla-cay">Damla Çay</a>
