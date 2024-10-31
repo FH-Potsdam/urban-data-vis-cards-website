@@ -56,7 +56,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>1. Introduction</h2>
-		<p>As the focus of the activities is to collaboratively solve the tasks, start by introducing the activity participants to one another. Follow up by introducing the workshop concept. We have some <a href="">slides prepared</a> you can use.</p>
+		<p>As the focus of the activities is to collaboratively solve the tasks, start by introducing the activity participants to one another. Follow up by introducing the workshop concept. We have some <a href="/#downloads">slides prepared</a> you can use.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/1-intro.jpg" alt="Introduction of workshop material" />

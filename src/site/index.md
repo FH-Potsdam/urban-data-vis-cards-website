@@ -6,7 +6,7 @@ eleventyNavigation:
 ---
 
 
-<section class="section home-section" id="introduction">
+<section class="section home-section" id="introduction" style="padding-top:100px;margin-top:0px;">
 	<div class="home-section__text">
 		<h2>A card deck for collaborative creation, critique calibration and curation of urban data visualisations</h2>
 		<p>LOREM IPSUM</p>
@@ -71,6 +71,10 @@ eleventyNavigation:
   <li>
     <strong>Packaging</strong>
     <p><a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/packaging-package.zip">Illustrator Package</a>, <a href="https://github.com/damlacay/udv/blob/73daeaac85d03fb342ac47f48bd902e52a7259fc/downloads/packaging.pdf">PDF</a></p>
+  </li>
+  <li>
+    <strong>Introduction Slides</strong>
+    <p><a href="https://github.com/damlacay/udv/blob/2177245fa11aee75c1eb4648d69c75114d462057/downloads/slides.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/2177245fa11aee75c1eb4648d69c75114d462057/downloads/slides.zip">PNGs (zipped)</a></p>
   </li>
   <li>
     <strong>Evaluation Form</strong>
