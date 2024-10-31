@@ -40,3 +40,33 @@ ul#instruction-list {
         width: 400px;
     }
 }
+
+section.instructions-section {
+    margin: 0 auto;
+    margin-top: 0px;
+    padding: 0 15% 100px;
+    display:flex;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    >div {
+        min-width: 400px;
+        img {
+            width:100%;
+            height:auto;
+        }
+    }
+    >div:first-child {
+        width: 40%;
+    }
+    >div:last-child {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    section.instructions-section>div{
+        width: 100%;
+    }
+}
