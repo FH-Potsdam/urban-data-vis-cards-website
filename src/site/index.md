@@ -9,7 +9,7 @@ eleventyNavigation:
 <section class="section home-section" id="introduction" style="padding-top:100px;margin-top:0px;">
 	<div class="home-section__text">
 		<h2>A card deck for collaborative creation, critique calibration and curation of urban data visualisations</h2>
-		<p>The Urban Data Visualization (UDV) card deck – a tool created to spark discussions and guide the design of urban data visualizations. The UDV cards were crafted to make it easier to connect theory with hands-on practice, especially in collaborative workshop settings. Each card distills essential insights from urban visualization design, offering a structured yet flexible way to explore different aspects of your projects. Whether you're new to urban data or already working in the field, the UDV card deck is here to support your creative process and help you make well-informed design decisions.</p>
+		<p>The Urban Data Visualization (UDV) card deck – a tool to spark discussions and guide the design of urban data visualizations. The UDV cards were crafted to make it easier to connect theory with practice, especially in collaborative workshop settings. Each card distills essential considerations from urban visualization design, offering a structured yet flexible way to explore different aspects of your projects. Whether you're new to urban data or already working in the field, the UDV card deck is here to support your creative process and help you make well-informed design decisions.</p>
   </div>
 	<div class="home-section__shapes">
 		<!--<img src="/assets/img/udvcards-in-hands.jpg" alt="UDV cards spread in hand." />-->
@@ -27,7 +27,7 @@ eleventyNavigation:
         <img src="/assets/img/icon-create.svg" alt="Create" />
         <h3>Create</h3>
         <span>
-          Based on an urban challenge develop data-driven concepts for potential visualisation solutions.
+          Develop data-driven concepts for urban visualizations inspired by a specific urban challenge.
         </span>
       </a>
       <a class="upcoming-link" style="color:white;" href="/create/">Read more &raquo;</a>
@@ -37,7 +37,7 @@ eleventyNavigation:
         <img src="/assets/img/icon-critique.svg" alt="Critique" />
         <h3>Critique</h3>
         <span>
-          A guided group reflection to analyse the weaknesses and strengths of urban data visualisations.
+          Reflect on and analyze the strengths and weaknesses of urban data visualizations.
         </span>
       </a>
       <a class="upcoming-link" style="color:white;" href="/critique/">Read more &raquo;</a>
@@ -47,7 +47,7 @@ eleventyNavigation:
         <img src="/assets/img/icon-calibrate.svg" alt="Calibrate" />
         <h3>Calibrate</h3>
         <span>
-          Collaboratively improve an existing urban data visualisations, based on a set of selected dimensions.
+          Improve an existing urban data visualization collaboratively, focusing on specific selected dimensions.
         </span>
       </a>
       <a class="upcoming-link" style="color:white;" href="/calibrate/">Read more &raquo;</a>
@@ -57,7 +57,7 @@ eleventyNavigation:
         <img src="/assets/img/icon-curate.svg" alt="Curate" />
         <h3>Curate</h3>
         <span>
-          Starting from a collection of urban visualisations, organising and curating a selection (e.g. for an exhibition or book). 
+          Organize and curate a selection from a collection of urban visualizations, such as for an exhibition or publication.
         </span>
       </a>
       <a class="upcoming-link" style="color:white;" href="/curate/">Read more &raquo;</a>
