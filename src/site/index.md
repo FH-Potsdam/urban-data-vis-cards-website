@@ -84,17 +84,15 @@ eleventyNavigation:
     <strong>Introduction Slides</strong>
     <p><a href="https://github.com/damlacay/udv/blob/main/downloads/slides.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/slides.zip">PNGs (zipped)</a></p>
   </li>
-  <li>
-    <strong>Evaluation Form</strong>
-    <p><a href="https://github.com/damlacay/udv/blob/main/downloads/survey.pdf">PDF</a></p>
-  </li>
 </ul>
 </section>
 
 <section style="padding-top:50px; padding-bottom:0;" class="section workshop-section workshop-section__timeline">
 <h4 id="contact">Adapt and Participate</h4>
 <div>
-  Check out our [Github repo](https://github.com/damlacay/udv) for ways of adapting the cards to your needs.
+  Check out our <a href="https://github.com/damlacay/udv">Github Repo</a> for ways of adapting the cards to your needs.<br/>
+
+  If you or your workshop participants want to give feedback, please feel free to use our <a href="https://github.com/damlacay/udv/blob/main/downloads/survey.pdf">evaluation form</a> (PDF).
 </div>
 </section>
 
