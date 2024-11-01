@@ -91,6 +91,12 @@ eleventyNavigation:
 </ul>
 </section>
 
+<section style="padding-top:50px; padding-bottom:0;" class="section workshop-section workshop-section__timeline">
+<h4 id="contact">Adapt and Participate</h4>
+<div>
+  Check out our [Github repo](https://github.com/damlacay/udv) for ways of adapting the cards to your needs.
+</div>
+</section>
 
 <section style="padding-top:50px; padding-bottom:0;" class="section workshop-section workshop-section__timeline">
 <h4 id="contact">Team</h4>
