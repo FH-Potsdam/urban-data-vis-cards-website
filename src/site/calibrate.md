@@ -15,7 +15,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>Purpose</h2>
-		<p>Improve an existing urban data visualisations, based on a set of dimensions.</p>
+		<p>Improve an existing urban data visualisations, based on a set of dimensions. While the <a href="/critique/">Critique Activity</a> focusses primarily on identifying strengths and weaknesses, Calibrate tries to come up with alternatives as improved iterations.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/create-intro.jpg" alt="Introduction of workshop material" />
@@ -106,7 +106,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>6. Analyse visualisation</h2>
-		<p>Flip the axis to highlight the current state of the visualisation.</p>
+		<p>As a group go through each selected dimension and discuss towards which extreme the current version the visualisation can be positioned. Once agreed upon, highlight the decision by flipping the axis card at the correct position to highlight the current state of the visualisation (black X).</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/scale-flip.jpg" alt="Introduction of workshop material" />
@@ -116,7 +116,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>7. Mark targets</h2>
-		<p>Place the marker to indicate how it should be improved.</p>
+		<p>In a next step set goals where the new visualisation should be heading. Mark the goals by placing the marker (green X tokens) to indicate how it should be improved.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/mark-targets.jpg" alt="Introduction of workshop material" />
@@ -126,7 +126,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>8. Generating ideas</h2>
-		<p>Sketch ideas how to improve the vis.</p>
+		<p>In the next step, the goals defined by the green markers are used as guidance to come up with ideas. In groups of 2 (max 3) the participants sketch out ideas for potential visualisations.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/7-ideate.jpg" alt="Introduction of workshop material" />

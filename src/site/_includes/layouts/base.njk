@@ -4,8 +4,6 @@
 </div>
 {% include 'parts/header.njk' %}
 <main class="main" role="main">
-    <section class="section">
-      {{ content | safe }}
-    </section>
+    {{ content | safe }}
 </main>
 {% include 'parts/footer.njk' %}

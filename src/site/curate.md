@@ -15,7 +15,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>Purpose</h2>
-		<p>Starting from a collection of urban visualisations, organising and curating a selection (e.g. for an exhibition or book).</p>
+		<p>If you are facing the challenge of organising a large collection of visualisations or selecting a subset of visualisations. This activity can help a group with organising and curating a selection (e.g. for an exhibition or book).</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/create-intro.jpg" alt="Introduction of workshop material" />
@@ -65,8 +65,8 @@ Instructions for
 
 <section class="section instructions-section">
 	<div>
-		<h2>2. Existing Visualisation</h2>
-		<p>Each group receives one visualisation and familiarises themselves with it. Highlight requirements, context, targeted audiences, data, etc. (see Preparations).</p>
+		<h2>2. Present Collection</h2>
+		<p>Present the outline of the desired collection and its focus. Discuss the intended use, audience, context, etc. Make sure that there is agreed upon understanding of the bigger. Which is important for the next steps.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/2-challenge.jpg" alt="Introduction of workshop material" />
@@ -86,7 +86,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>4. Dimension selection</h2>
-		<p>Group selects (max.) 3 dimensions they think are most important to the  presented challenge. <i>This step can take up quite some time. If time is limited preselect the dimensions and skip this step.</i></p>
+		<p>The group selects all dimensions that fit the theme of the collection. Be aware that the more dimensions are selected the more time the overall activity will require.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/4-dimension-selection.jpg" alt="Introduction of workshop material" />
@@ -96,7 +96,7 @@ Instructions for
 <section class="section instructions-section">
 	<div>
 		<h2>5. Scale setup</h2>
-		<p>The groups set up the dimension scales for the selected dimensions. In this activity setup the scale cards without crosses. Put the extremes on each side. If you have enough space put the description card of the dimension next to it as backup.</p>
+		<p>Unlike the other activities the scales coming as cards are not being used. Instead, the groups only set up the dimension scales for the selected dimensions as reference. The scales that will be used for the classification of the visualisations have 5 steps.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/5-scales.jpg" alt="Introduction of workshop material" />
@@ -105,8 +105,8 @@ Instructions for
 
 <section class="section instructions-section">
 	<div>
-		<h2>6. Analyse visualisation</h2>
-		<p>Flip the axis to highlight the current state of the visualisation.</p>
+		<h2>6. Classification</h2>
+		<p>The group jointly classifies all the visualisations in each dimension (using the 5-setp scales). Use a big sheet of paper to write down the results of the classifications.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/scale-flip.jpg" alt="Introduction of workshop material" />
@@ -115,28 +115,7 @@ Instructions for
 
 <section class="section instructions-section">
 	<div>
-		<h2>7. Mark targets</h2>
-		<p>Place the marker to indicate how it should be improved.</p>
-  </div>
-	<div>
-		<img src="/assets/img/instructions/mark-targets.jpg" alt="Introduction of workshop material" />
-	</div>
-</section>
-
-<section class="section instructions-section">
-	<div>
-		<h2>8. Generating ideas</h2>
-		<p>Sketch ideas how to improve the vis.</p>
-  </div>
-	<div>
-		<img src="/assets/img/instructions/7-ideate.jpg" alt="Introduction of workshop material" />
-	</div>
-</section>
-
-
-<section class="section instructions-section">
-	<div>
-		<h2>9. Reflection cards</h2>
+		<h2>7. Reflection cards</h2>
 		<p>To inspire the process, each group goes through the reflection cards, that are relevant for the selected dimensions. On the dimension overview cards the colored circles highlight which consideration cards are relevant for each dimension.</p>
   </div>
 	<div>
@@ -146,8 +125,8 @@ Instructions for
 
 <section class="section instructions-section">
 	<div>
-		<h2>10. Presentation of results</h2>
-		<p>To finish up, each group presents the results to each other and discuss the outcomes of the workshop. <i>Taking either video recordings or photos and audio recordings helps documenting the thoughts that go into each concept.</i></p>
+		<h2>8. Selection process</h2>
+		<p>To finish up, based on the results the group can then discuss which visualisations rank the highest across the target dimensions and select the best fitting visualisations for the new collection.</p>
   </div>
 	<div>
 		<img src="/assets/img/instructions/9-results.jpg" alt="Introduction of workshop material" />
@@ -160,10 +139,3 @@ Instructions for
 
 <p>An organised collection can help with other activities, as it is now easy to find visualisations that match certain criteria (e.g. complexity for novice users) and thereby, serve as reference examples.</p>
 </section>
-
-2. Present the outline of the desired collection and its focus. 
-3. Each participant picks (at least) one dimension card and summarises it to the group.
-4. The group selects all dimensions that fit the theme of the collection.
-5. The groups set up the dimension scales for the selected dimensions as reference. Each scale has 5 steps.
-6. The group jointly classifies all the visualisations in each dimension.
-7. Based on the results the group can then discuss which visualisations rank the highest across the target dimensions and select the best fitting visualisations for the collection.
