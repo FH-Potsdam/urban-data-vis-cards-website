@@ -12,7 +12,7 @@ eleventyNavigation:
 		<p>The Urban Data Visualization (UDV) card deck – a tool to spark discussions and guide the design of urban data visualizations. The UDV cards were crafted to make it easier to connect theory with practice, especially in collaborative workshop settings. Each card distills essential considerations from urban visualization design, offering a structured yet flexible way to explore different aspects of your projects. Whether you're new to urban data or already working in the field, the UDV card deck is here to support your creative process and help you make well-informed design decisions.</p>
   </div>
 	<div>
-		<img style="margin-top:10px;" src="/assets/img/udvcards-in-hands.jpg" alt="UDV cards spread in hand." />
+		<img style="margin-top:10px;" src="/assets/img/udvcards-in-hands2.jpg" alt="UDV cards spread in hand." />
 	</div>
 </section>
 
@@ -170,7 +170,7 @@ If you have any questions don't hesitate <a href="mailto:damla.cay@mome.hu?subje
 <section style="padding-top:50px;" class="section workshop-section workshop-section__contact">
 <h4>License</h4>
 <div>
-The cards are published under an open license. See the <a href="https://github.com/damlacay/udv">GitHub repo</a> for more details. The photos of the card deck were done by Vivienne Richmond and are copyright protected, use without authorization is not allowed.
+The cards are published under an open license. See the <a href="https://github.com/damlacay/udv">GitHub repo</a> for more details. The photos of the card deck were taken by Vivienne Richmond. We welcome interest in their use; please note that permission is required, as these images are copyright protected.
 </div>
 </section>
 </section>
