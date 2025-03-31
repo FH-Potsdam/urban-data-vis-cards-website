@@ -12,7 +12,7 @@ eleventyNavigation:
 		<p>The Urban Data Visualization (UDV) card deck – a tool to spark discussions and guide the design of urban data visualizations. The UDV cards were crafted to make it easier to connect theory with practice, especially in collaborative workshop settings. Each card distills essential considerations from urban visualization design, offering a structured yet flexible way to explore different aspects of your projects. Whether you're new to urban data or already working in the field, the UDV card deck is here to support your creative process and help you make well-informed design decisions.</p>
   </div>
 	<div>
-		<img style="margin-top:10px;" src="/assets/img/udvcards-in-hands2.jpg" alt="UDV cards spread in hand." />
+		<img style="margin-top:10px;" src="/assets/img/udvcards-in-action.jpg" alt="UDV cards spread in hand." />
 	</div>
 </section>
 
