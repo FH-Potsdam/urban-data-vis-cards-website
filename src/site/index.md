@@ -18,7 +18,7 @@ eleventyNavigation:
 
 <section class="section">
 
-<section style="padding-top:50px; padding-bottom:0;" class="section workshop-section" id="instructions">
+<section style="padding-top:50px; padding-bottom:0;" class="section workshop-section" id="activities">
   <div class="container">
     <h2>How to use the UDV card deck</h2>
     <p>Engage with the UDV card deck through different activities that guide you from analyzing and designing urban visualizations to refining concepts and organizing inspirations. Detailed instructions for each are available below.</p>
@@ -39,7 +39,7 @@ eleventyNavigation:
         <img src="/assets/img/icon-critique.svg" alt="Critique" />
         <h3>Critique</h3>
         <span>
-          Reflect on and analyze the strengths and weaknesses of urban data visualizations.
+          Analyze the strengths and weaknesses of urban data visualizations, by identifying and reflecting on them.
         </span>
       </a>
       <a class="upcoming-link" style="color:white;" href="/critique/">Read more &raquo;</a>
@@ -131,11 +131,12 @@ eleventyNavigation:
 <section style="padding-top:50px; padding-bottom:0;" class="section workshop-section workshop-section__contact">
 <h4>Literature</h4>
 <div>
-Çay, D. Nagel, T. & Meier, S. (2025). The UDV Card Deck: A Collaborative Design Framework to Facilitate Urban Visualization Conversations. In IEEE Computer Graphics and Applications (CG&A) (upcoming). DOI: 10.1109/MCG.2025.3556573
+Çay, D. Nagel, T. & Meier, S. (2025). The UDV Card Deck: A Collaborative Design Framework to Facilitate Urban Visualization Conversations. IEEE Computer Graphics and Applications (CG&A). DOI: 10.1109/MCG.2025.3556573 (upcoming)
 </div>
+<br/>
 <div>
 <em>The cards are based on the previous work by the researchers behind the CityVis initiative:</em>
-Goodwin, S., Meier, S., Bartram, L., Godwin, A., Nagel, T., & Dörk, M. (2021). <a href="https://jagodwin.github.io/assets/papers/pacificvis2021.pdf">Unravelling the human perspective and considerations for urban data visualization.</a> IEEE 14th Pacific Visualization Symposium (PacificVis) (pp. 126-130). doi: 10.1109/PacificVis52677.2021.00024
+Goodwin, S., Meier, S., Bartram, L., Godwin, A., Nagel, T., & Dörk, M. (2021). <a href="https://jagodwin.github.io/assets/papers/pacificvis2021.pdf">Unravelling the human perspective and considerations for urban data visualization.</a> IEEE 14th Pacific Visualization Symposium (PacificVis) (pp. 126-130). DOI: 10.1109/PacificVis52677.2021.00024
 </div>
 </section>
 
