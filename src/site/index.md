@@ -8,7 +8,7 @@ eleventyNavigation:
 
 <section class="section instructions-section" id="introduction" style="padding-top:100px;margin-top:0px; margin-bottom:0; padding-bottom:0;">
 	<div>
-		<h2>A card deck for collaborative creation, critique calibration and curation of urban data visualisations</h2>
+    <h2>A Card Deck to Create, Critique, Calibrate, and Curate Urban Data Visualizations</h2>
 		<p>The Urban Data Visualization (UDV) card deck – a tool to spark discussions and guide the design of urban data visualizations. The UDV cards were crafted to make it easier to connect theory with practice, especially in collaborative workshop settings. Each card distills essential considerations from urban visualization design, offering a structured yet flexible way to explore different aspects of your projects. Whether you're new to urban data or already working in the field, the UDV card deck is here to support your creative process and help you make well-informed design decisions.</p>
   </div>
 	<div>
@@ -20,7 +20,7 @@ eleventyNavigation:
 
 <section style="padding-top:50px; padding-bottom:0;" class="section workshop-section" id="instructions">
   <div class="container">
-    <h2>Instructions</h2>
+    <h2>How to use the UDV card deck</h2>
     <p>Engage with the UDV card deck through different activities that guide you from analyzing and designing urban visualizations to refining concepts and organizing inspirations. Detailed instructions for each are available below.</p>
   </div>
 	<ul id="instruction-list">
@@ -105,7 +105,7 @@ eleventyNavigation:
     <p><a href="https://github.com/damlacay/udv/blob/main/downloads/cards-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/cards.pdf">PDF</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/cards-bleeds.pdf">PDF with bleeds</a></p>
   </li>
   <li>
-    <strong>Instructions</strong>
+    <strong>Activity Cheat Sheet</strong>
     <p><a href="https://github.com/damlacay/udv/blob/main/downloads/instructions-package.zip">InDesign Package</a>, <a href="https://github.com/damlacay/udv/blob/main/downloads/instructions.pdf">PDF</a></p>
   </li>
   <li>
@@ -131,7 +131,11 @@ eleventyNavigation:
 <section style="padding-top:50px; padding-bottom:0;" class="section workshop-section workshop-section__contact">
 <h4>Literature</h4>
 <div>
-The cards are based on the previous work by the researchers behind the CityVis initiative: Goodwin, S., Meier, S., Bartram, L., Godwin, A., Nagel, T., & Dörk, M. (2021, April). <a href="https://jagodwin.github.io/assets/papers/pacificvis2021.pdf">Unravelling the human perspective and considerations for urban data visualization.</a> In 2021 IEEE 14th Pacific Visualization Symposium (PacificVis) (pp. 126-130).
+Çay, D. Nagel, T. & Meier, S. (2025). The UDV Card Deck: A Collaborative Design Framework to Facilitate Urban Visualization Conversations. In IEEE Computer Graphics and Applications (CG&A) (upcoming). DOI: 10.1109/MCG.2025.3556573
+</div>
+<div>
+<em>The cards are based on the previous work by the researchers behind the CityVis initiative:</em>
+Goodwin, S., Meier, S., Bartram, L., Godwin, A., Nagel, T., & Dörk, M. (2021). <a href="https://jagodwin.github.io/assets/papers/pacificvis2021.pdf">Unravelling the human perspective and considerations for urban data visualization.</a> IEEE 14th Pacific Visualization Symposium (PacificVis) (pp. 126-130). doi: 10.1109/PacificVis52677.2021.00024
 </div>
 </section>
 
@@ -148,7 +152,7 @@ MOME Innovation Center
 <li class="committee-list__item">
 <a href="https://services.informatik.hs-mannheim.de/~nagel/">Till Nagel</a>
 <span class="committee-list__item--institution">
-Hochschule Mannheim
+Technische Hochschule Mannheim
 </span>
 </li>
 <li class="committee-list__item">
